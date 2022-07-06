@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Heladera",
+    "price": 93000,
+    "thumbnail": "https://i.ibb.co/CKb8YFs/heladera.jpg",
+    "id": 1
+  },
+  {
+    "title": "Cocina",
+    "price": 57000,
+    "thumbnail": "https://i.ibb.co/V9fv1T5/cocina.jpg",
+    "id": 2
+  },
+  {
+    "title": "Lavarropas",
+    "price": 72000,
+    "thumbnail": "https://i.ibb.co/9czd57T/lavarropas.jpg",
+    "id": 3
+  }
+]
