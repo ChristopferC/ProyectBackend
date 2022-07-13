@@ -2,16 +2,23 @@
   "name": "backendcardoso",
   "version": "1.0.0",
   "description": "",
-  "main": "main.js",
+  "main": "index.js",
+  "type": "module",
   "scripts": {
+    "start": "node preEntrega_Cardoso/src/index.js",
+    "dev": "nodemon preEntrega_Cardoso/src/index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "dotenv": "^16.0.1",
     "express": "^4.18.1",
+    "joi": "^17.6.0",
     "moment": "^2.29.3",
-    "multer": "^1.4.5-lts.1"
+    "multer": "^1.4.5-lts.1",
+    "webpack": "^5.73.0",
+    "webpack-cli": "^4.10.0"
   }
 }

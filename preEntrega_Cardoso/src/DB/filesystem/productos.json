@@ -1,0 +1,32 @@
+[
+  {
+    "nombre": "Heladera línea blanca",
+    "descripcion": "Heladera de 60 litros de color blanca",
+    "codigo": "HGG458",
+    "precio": 93000,
+    "stock": 46,
+    "foto": "https://i.ibb.co/CKb8YFs/heladera.jpg",
+    "id": 1,
+    "timestamp": "13/7/2022 22:05:03"
+  },
+  {
+    "nombre": "Cocina mediana",
+    "descripcion": "Cocina de tamaño estándar con cuatro hornallas",
+    "codigo": "CGG458",
+    "precio": 57000,
+    "stock": 32,
+    "foto": "https://i.ibb.co/V9fv1T5/cocina.jpg",
+    "id": 2,
+    "timestamp": "13/7/2022 22:05:03"
+  },
+  {
+    "nombre": "Lavarropas automático",
+    "descripcion": "Lavarropas automático con Inteligencia Fuzzy",
+    "codigo": "LGG458",
+    "precio": 72000,
+    "stock": 29,
+    "foto": "https://i.ibb.co/9czd57T/lavarropas.jpg",
+    "id": 3,
+    "timestamp": "13/7/2022 22:05:03"
+  }
+]
